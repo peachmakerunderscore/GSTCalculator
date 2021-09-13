@@ -8,7 +8,7 @@ const router = express.Router();
 
 // Public APIs
 router.get("/", (req, res) => {
-  res.send("Welcome to Twttr");
+  res.send("Welcome to GET MY TAX");
 });
 // SignUp API
 router.post(
